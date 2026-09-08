@@ -1,24 +1,13 @@
-# Dashboard de Atención al Cliente
+# Capturas
 
-## Objetivo
+## Vista General
 
-Analizar el desempeño de un equipo de atención al cliente mediante indicadores clave de servicio.
+screenshots/dashboard_general.png
 
-## Herramientas utilizadas
+## KPIs
 
-- Power BI
-- Power Query
-- DAX
+screenshots/kpis.png
 
-## Indicadores
+## Rendimiento por Agente
 
-- Tickets recibidos
-- Tickets cerrados
-- Tickets abiertos
-- Tiempo promedio de resolución
-- Satisfacción del cliente
-- Cumplimiento SLA
-
-## Resultados
-
-Dashboard interactivo para seguimiento de métricas operativas y estratégicas.
+screenshots/analisis_agentes.png
